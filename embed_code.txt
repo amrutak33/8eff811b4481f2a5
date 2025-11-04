@@ -1,0 +1,8 @@
+Video URL:
+https://amrutak33.github.io/player/?list=https://raw.githubusercontent.com/amrutak33/8eff811b4481f2a5/refs/heads/master/github_master.m3u8
+
+Embed Code:
+<iframe src="https://amrutak33.github.io/player/?list=https://raw.githubusercontent.com/amrutak33/8eff811b4481f2a5/refs/heads/master/github_master.m3u8" width="800" height="450" frameborder="0" allowfullscreen></iframe>
+
+Thumbnail URL:
+https://i.ibb.co/3mXPkbb7/Toonworld4all-Scooby-Doo-and-Scrappy-Doo-S02-E05-720p-x264-WEB-DL-Dual-Audio-ESub-thumbnail.jpg
